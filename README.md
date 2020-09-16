@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Cover](https://github.com/nkoubamarius/nkoubamarius/blob/master/img/marius.png)
 
 <!--
 **nkoubamarius/nkoubamarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
