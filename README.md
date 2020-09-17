@@ -1,9 +1,14 @@
-### Hi there 👋
-![Cover](https://github.com/nkoubamarius/nkoubamarius/blob/master/img/marius.png)
+### Hi there, I am Marius 👋
+Hi, I'm N'KOUBA Marius, a passionate self-taught frontEnd & backend web developer from Morocco.
+
+- 🔭 I’m currently working on Youtube Clone
+- 🌱 I’m currently learning ReactJs and TypeScript
+- 👯 I’m looking to collaborate on Github Readme Stats
+- 📫 How to reach me: nkoubamarius@gmail.com
 
 <!--
 **nkoubamarius/nkoubamarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Cover](https://github.com/nkoubamarius/nkoubamarius/blob/master/img/marius.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
